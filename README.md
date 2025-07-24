@@ -1,65 +1,90 @@
-# Oi!! Eu sou o Matheus Lula 🦑
-<div align="center">
-  
- ### Sobre mim
- 
-  **`📱 Desenvolvedor Mobile.`**  **`🎨🖌 Gosto de desenhar nas horas vagas`** **`📚 Atualmente estou estudando Kotlin`**
-  <br><br>
-Me chamo Matheus Phillipe Lula Souza, tenho 22 anos. Sou natural do Maranhão e estou explorando a vida no Piauí. No ensino técnico em Administração, descobri minha afinidade com a informática. E durante a graduação, me encontrei na programação mobile, onde posso unir minha criatividade com códigos para desenvolver aplicativos funcionais e atrativos. 
-  
-</div>
- 
- ##
+# 👋 Oi, eu sou o Matheus Lula 🦑!
 
 <div align="center">
-  
-  ### Estatísticas
-  
+
+  **` 📱 Desenvolvedor Mobile | 🎨 Ilustrador nas horas vagas | 🚀 Buscando sempre melhorar `**
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Me chamo **`Matheus Phillipe Lula Souza`**, tenho 22 anos, sou natural do Maranhão e atualmente vivo no Piauí. Minha paixão por tecnologia começou ainda no curso técnico em Administração, onde descobri a área da informática. Foi na faculdade que encontrei meu verdadeiro caminho na **`programação mobile`**, unindo criatividade, design e funcionalidade.
+
+Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre com foco em **experiência do usuário e performance**. Quando não estou codando, gosto de desenhar e estudar novas linguagens. Estou em constante evolução como profissional e pessoa.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
   <a href="https://github.com/MatheusConaga">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusConaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusConaga&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusConaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusConaga&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+  </a>
 </div>
 
+---
 
-    
-##
-    
- <div align="center">
-
-### Linguagens e Ferramentas
-
-<img alt="FLUTTER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-<img alt="DART" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-<img alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img alt="KOTLIN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-<img alt="FIGMA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img alt="INKSCAPE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
-<img alt="FIREBASE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
-<img alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="MARIADB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
-
-</div>
-
-  ##
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
+  <img alt="Flutter" title="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img alt="Dart" title="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img alt="Kotlin" title="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img alt="React" title="React Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img alt="Firebase" title="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img alt="MariaDB" title="MariaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Figma" title="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img alt="Inkscape" title="Inkscape" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
+</div>
 
-  ### Formação Acadêmica
+---
 
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Banzai (em desenvolvimento)** | Sistema de gerenciamento de projetos com fluxo Kanban, login por Google/email, integração com IA do Google Gemini para apoiar decisões e sugestões de tarefas, além de boas práticas de UX aplicadas na interface. | Flutter, Firebase, Figma, Gemini AI API, UX Design |
+| **Delta Commerce** | Aplicativo estilo OLX onde usuários podem cadastrar produtos, ligar diretamente para o anunciante e filtrar anúncios por categoria. Desenvolvido com foco em usabilidade e integração em tempo real. | Flutter, Firebase, Figma, Inkscape |
+
+---
+
+## 🎓 Formação Acadêmica
+
+<div align="center">
 <table>
   <tr>
     <td><img height="80px" width="80px" alt="IFPI" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcRVjeg_4VBl6L9DIpY2KPglLPA7ITm5Axw&s"/></td>
     <td>
-      <strong>Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas</strong><br>
-      Instituto Federal do Piauí (IFPI) | Parnaíba, PI | 2025
+      <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong><br>
+      Instituto Federal do Piauí (IFPI) | Parnaíba, PI | Conclusão: 2025
     </td>
   </tr>
   <tr>
     <td><img height="80px" width="80px" alt="IFMA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTudH51uknTLGYrz6qZ-fHS7dnZsOqH7rFyVg&s"/></td>
     <td>
-      <strong>Ensino Médio Técnico Integrado em Administração</strong><br>
-      Instituto Federal do Maranhão (IFMA) | Araioses, MA | 2021
+      <strong>Técnico em Administração (Integrado ao Ensino Médio)</strong><br>
+      Instituto Federal do Maranhão (IFMA) | Araioses, MA | Conclusão: 2021
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+## 📫 Como me encontrar?
+
+- 📧 **Email:** matheusphillip170@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/matheusconaga](https://www.linkedin.com/in/matheusconaga)  
+
+---
+
+<div align="center">
+
+Feito com 💙 por Matheus Lula  
+Se gostou do meu trabalho, que tal deixar uma ⭐️?
+
 </div>
