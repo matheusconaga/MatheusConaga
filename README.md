@@ -75,10 +75,26 @@ Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre co
 
 ---
 
+## 🧾 Certificações & Cursos Complementares
+
+<div align="center">
+ 
+| Curso | Instituição | Carga Horária | Conclusão |
+|-------|-------------|----------------|-----------|
+| **User Experience (UX)** | FIAP | 60h | Jul 2025 |
+| **JavaScript e TypeScript do básico ao avançado** | Udemy | 146h | Fev 2025 |
+| **React Native com projetos práticos** | Udemy | 45h | Dez 2024 |
+| **Flutter com aplicações completas** | Udemy | 67.5h | Nov 2024 |
+
+</div>
+ 
+---
+
 ## 📫 Como me encontrar?
 
 - 📧 **Email:** matheusphillip170@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/matheusconaga](https://www.linkedin.com/in/matheusconaga)  
+- 💼 **LinkedIn:** [linkedin.com/in/matheusconaga](https://www.linkedin.com/in/matheusconaga)
+- 💻 **GitHub:** [github.com/MatheusConaga](https://github.com/MatheusConaga)
 
 ---
 
