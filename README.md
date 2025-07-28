@@ -94,7 +94,7 @@ Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre co
 
 - 📧 **Email:** matheusphillip170@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/matheusconaga](https://www.linkedin.com/in/matheusconaga)
-- 💻 **GitHub:** [github.com/MatheusConaga](https://github.com/MatheusConaga)
+- 💻 **GitHub:** [github.com/matheusconaga](https://github.com/matheusconaga)
 
 ---
 
