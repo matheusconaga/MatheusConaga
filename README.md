@@ -47,8 +47,7 @@ Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre co
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Banzai (em desenvolvimento)** | Sistema de gerenciamento de projetos com fluxo Kanban, login por Google/email, integração com IA do Google Gemini para apoiar decisões e sugestões de tarefas, além de boas práticas de UX aplicadas na interface. | Flutter, Firebase, Figma, Gemini AI API, UX Design |
-| **Delta Commerce** | Aplicativo estilo OLX onde usuários podem cadastrar produtos, ligar diretamente para o anunciante e filtrar anúncios por categoria. Desenvolvido com foco em usabilidade e integração em tempo real. | Flutter, Firebase, Figma, Inkscape |
+| **Delta Commerce (refatorando)** | Aplicativo estilo OLX onde usuários podem cadastrar produtos, ligar diretamente para o anunciante e filtrar anúncios por categoria. Desenvolvido com foco em usabilidade e integração em tempo real. | Flutter, Firebase, Figma, Inkscape |
 
 ---
 
