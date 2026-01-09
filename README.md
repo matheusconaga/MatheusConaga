@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  **` 📱 Desenvolvedor Mobile | 🎨 Ilustrador nas horas vagas | 🚀 Buscando sempre melhorar `**
+  **` 💻 Desenvolvedor Fullstack | 🎨 Ilustrador nas horas vagas | 🚀 Buscando sempre melhorar `**
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Me chamo **`Matheus Phillipe Lula Souza`**, tenho 22 anos, sou natural do Maranhão e atualmente vivo no Piauí. Minha paixão por tecnologia começou ainda no curso técnico em Administração, onde descobri a área da informática. Foi na faculdade que encontrei meu verdadeiro caminho na **`programação mobile`**, unindo criatividade, design e funcionalidade.
+Me chamo **`Matheus Phillipe Lula Souza`**, tenho 23 anos, sou natural do Maranhão e atualmente vivo no Piauí. Minha paixão por tecnologia começou ainda no curso técnico em Administração, onde descobri a área da informática. Foi na faculdade que encontrei meu verdadeiro caminho na **`programação mobile`**, unindo criatividade, design e funcionalidade.
 
-Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre com foco em **experiência do usuário e performance**. Quando não estou codando, gosto de desenhar e estudar novas linguagens. Estou em constante evolução como profissional e pessoa.
+Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com foco em **experiência do usuário e performance**. Quando não estou codando, gosto de desenhar e estudar novas linguagens. Estou em constante evolução como profissional e pessoa.
 
 ---
 
@@ -34,6 +34,7 @@ Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre co
   <img alt="Dart" title="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img alt="Kotlin" title="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img alt="React" title="React Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img alt="Python" title="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="Firebase" title="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
   <img alt="MariaDB" title="MariaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
   <img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,7 +48,8 @@ Atualmente, desenvolvo apps usando **`Flutter`** e **`React Native`**, sempre co
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Delta Commerce (refatorando)** | Aplicativo estilo OLX onde usuários podem cadastrar produtos, ligar diretamente para o anunciante e filtrar anúncios por categoria. Desenvolvido com foco em usabilidade e integração em tempo real. | Flutter, Firebase, Figma, Inkscape |
+| **Educassist (Em desenvolvimento)** | Sistema assistente para professores, para planejar aulas, gerar provas, feedbacks para alunos, dentre outros | React, Python, Postgresql, Gemini |
+| **Gestão Patrimonial (Concluído)** | Sistema voltado para administração patrimonial de uma empresa, geração de etiquetas, relatórios em planilhas, dentre outros | React, Firebase, Figma, Supabase |
 
 ---
 
