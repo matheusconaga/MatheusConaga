@@ -36,7 +36,7 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🏢 **[Sistema Patrimonial](https://github.com/matheusconaga/projeto_patrimoniario)** | Sistema web criado inicialmente como freelancer e evoluído para código aberto. Permite gestão completa de ativos com dashboards, QR Code e automação. | React, Vite, Firebase, Cloudinary |
+| 💻 **[Patrimoniário](https://github.com/matheusconaga/projeto_patrimoniario)** | Sistema web criado inicialmente como freelancer e evoluído para código aberto. Permite gestão completa de ativos com dashboards, QR Code e automação. | React, Vite, Firebase, Cloudinary |
 | 📱 **[PrintLn](https://github.com/matheusconaga/projeto-println)** 🚧 | Rede social mobile em desenvolvimento com foco em UX, arquitetura escalável e integração com serviços em nuvem. | Flutter, FastAPI, Firebase, PostgreSQL, Cloudinary |
 
 
