@@ -10,20 +10,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Me chamo **`Matheus Phillipe Lula Souza`**, tenho 23 anos, sou natural do Maranhão e atualmente vivo no Piauí. Minha paixão por tecnologia começou ainda no curso técnico em Administração, onde descobri a área da informática. Foi na faculdade que encontrei meu verdadeiro caminho na **`programação mobile`**, unindo criatividade, design e funcionalidade.
+Me chamo **`Matheus Phillipe Lula Souza`**, tenho 23 anos, sou natural do Maranhão e atualmente vivo no Piauí. Minha paixão por tecnologia começou ainda no curso técnico em Administração, onde descobri a área da informática. Foi na faculdade que encontrei meu verdadeiro caminho na **`programação`**, unindo criatividade, design e funcionalidade.
 
 Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com foco em **experiência do usuário e performance**. Quando não estou codando, gosto de desenhar e estudar novas linguagens. Estou em constante evolução como profissional e pessoa.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/MatheusConaga">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusConaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusConaga&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
-  </a>
-</div>
 
 ---
 
@@ -32,7 +21,6 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 <div align="center">
   <img alt="Flutter" title="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img alt="Dart" title="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img alt="Kotlin" title="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img alt="React" title="React Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img alt="Python" title="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="Firebase" title="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
@@ -48,8 +36,9 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Educassist (Em desenvolvimento)** | Sistema assistente para professores, para planejar aulas, gerar provas, feedbacks para alunos, dentre outros | React, Python, Postgresql, Gemini |
-| **Gestão Patrimonial (Concluído)** | Sistema voltado para administração patrimonial de uma empresa, geração de etiquetas, relatórios em planilhas, dentre outros | React, Firebase, Figma, Supabase |
+| 🏢 **[Sistema Patrimonial](https://github.com/matheusconaga/projeto_patrimoniario)** | Sistema web criado inicialmente como freelancer e evoluído para código aberto. Permite gestão completa de ativos com dashboards, QR Code e automação. | React, Vite, Firebase, Cloudinary |
+| 📱 **[PrintLn](https://github.com/matheusconaga/projeto-println)** 🚧 | Rede social mobile em desenvolvimento com foco em UX, arquitetura escalável e integração com serviços em nuvem. | Flutter, FastAPI, Firebase, PostgreSQL, Cloudinary |
+
 
 ---
 
@@ -101,7 +90,6 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 
 <div align="center">
 
-Feito com 💙 por Matheus Lula  
-Se gostou do meu trabalho, que tal deixar uma ⭐️?
+⭐ Se curtir meus projetos, considere dar uma estrela!
 
 </div>
