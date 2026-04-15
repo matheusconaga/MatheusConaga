@@ -18,16 +18,16 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img alt="Flutter" title="Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img alt="Dart" title="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img alt="React" title="React Native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   <img alt="Python" title="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img alt="Firebase" title="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
-  <img alt="MariaDB" title="MariaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
-  <img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Figma" title="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img alt="Inkscape" title="Inkscape" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img alt="Flutter" title="Flutter" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img alt="Dart" title="Dart" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img alt="React" title="React Native" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img alt="Python" title="Python" height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="Firebase" title="Firebase" height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img alt="MariaDB" title="MariaDB" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Figma" title="Figma" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img alt="Inkscape" title="Inkscape" height="30" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
 </div>
 
 ---
@@ -36,8 +36,8 @@ Atualmente, desenvolvo sistemas usando **`React`** e **`Flutter`**, sempre com f
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 💻 **[Patrimoniário](https://github.com/matheusconaga/projeto_patrimoniario)** | Sistema web criado inicialmente como freelancer e evoluído para código aberto. Permite gestão completa de ativos com dashboards, QR Code e automação. | React, Vite, Firebase, Cloudinary |
-| 📱 **[PrintLn](https://github.com/matheusconaga/projeto-println)** 🚧 | Rede social mobile em desenvolvimento com foco em UX, arquitetura escalável e integração com serviços em nuvem. | Flutter, FastAPI, Firebase, PostgreSQL, Cloudinary |
+| **[Patrimoniário](https://github.com/matheusconaga/projeto_patrimoniario)** | Sistema web criado inicialmente como freelancer e evoluído para código aberto. Permite gestão completa de ativos com dashboards, QR Code e automação. | React, Vite, Firebase, Cloudinary |
+| **[PrintLn](https://github.com/matheusconaga/projeto-println)** | Rede social mobile em desenvolvimento com foco em UX, arquitetura escalável e integração com serviços em nuvem. | Flutter, FastAPI, Firebase, PostgreSQL, Cloudinary |
 
 
 ---
