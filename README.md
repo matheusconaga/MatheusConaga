@@ -126,21 +126,20 @@ Stack principal: React, Flutter, FastAPI, Node.js e integração com LLMs.
 
 ## 🎓 Formação Acadêmica
 
-🎓 Análise e Desenvolvimento de Sistemas — IFPI (2025)  
-🎓 Técnico em Administração — IFMA (2021)
+- 🎓 Análise e Desenvolvimento de Sistemas — IFPI (2025)  
+- 🎓 Técnico em Administração — IFMA (2021)
 
 ---
 
 ## 📜 Certificações
 
-- 🤖 Inteligência Artificial & Automação (Udemy, 2026)  
-- ⚙️ n8n + IA (Udemy, 2026)  
-- 🎨 UX (FIAP, 2025)  
-- 💻 JavaScript & TypeScript (Udemy, 2025)  
-- 📱 React Native & Flutter (2024)  
+- 🤖 Inteligência Artificial & Automação — Udemy (2026)  
+- ⚙️ n8n + IA — Udemy (2026)  
+- 🎨 UX — FIAP (2025)  
+- 💻 JavaScript & TypeScript — Udemy (2025)  
+- 📱 React Native & Flutter — Udemy (2024)  
 
 ---
-
 
 ## 📫 Contato
 
