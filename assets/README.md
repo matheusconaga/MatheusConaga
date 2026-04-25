@@ -1,0 +1,1 @@
+Assets usados no perfil
