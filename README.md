@@ -2,27 +2,46 @@
 
 <div align="center">
 
-**💻 Desenvolvedor Fullstack | ⚡ React • Flutter • FastAPI | 🤖 Automação & IA**
+<b><i>💻 Desenvolvedor Fullstack | ⚡ React • Flutter • FastAPI | 🤖 Automação & IA</i></b>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;React+%7C+Flutter+%7C+FastAPI;Automação+com+IA;Sempre+aprendendo" />
+**`Atualmente desenvolvendo soluções modernas com IA, mobile e web`**
+
+<img src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png" width="220"/>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=820&lines=%2B2+anos+criando+soluções+digitais;React+%7C+Flutter+%7C+FastAPI+%7C+Node.js;Redução+de+tarefas+manuais+em+até+40%25;Eficiência+operacional+20-30%25+com+IA;Experiência+do+usuário+com+foco+em+UX%2FUI" />
 </p>
 
 </div>
 
 <div align="center">
+<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer.pdf"><img src="https://img.shields.io/badge/📄%20Currículo-1E90FF?style=for-the-badge"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/🚀%20Portfólio-000000?style=for-the-badge"/></a>
+<a href="https://github.com/matheusconaga?tab=repositories"><img src="https://img.shields.io/badge/%20Projetos-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/></a>
+</div>
 
-<a href="https://portifoliomatheuslula.onrender.com/">
-  <img src="https://img.shields.io/badge/🚀%20Ver%20Portfólio-000000?style=for-the-badge"/>
-</a>
+---
 
-<a href="https://github.com/matheusconaga">
-  <img src="https://img.shields.io/badge/%20Projetos-181717?style=for-the-badge&logo=github"/>
-</a>
+## 🧑‍💻 Sobre mim
 
-<a href="https://www.linkedin.com/in/matheusconaga/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/>
-</a>
+Desenvolvedor Fullstack com **+2 anos de experiência** entregando aplicações  **web, mobile e APIs escaláveis**, com foco em performance, UX e automação inteligente.
+
+- ⚡ Performance e escalabilidade  
+- 🎨 Experiência do usuário (UX/UI)  
+- 🔗 Integração entre sistemas  
+- 🤖 Automação com IA  
+
+
+<div>
+  
+**Stack principal:** 
+  
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai"/>
 
 </div>
 
@@ -53,74 +72,50 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/MatheusConaga">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusconaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
-  </a>
-</div>
 
----
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusconaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## 🧑‍💻 Sobre mim
-
-Desenvolvedor Fullstack com +2 anos criando aplicações web, mobile e APIs.
-
-Atuação focada em:
-- ⚡ Performance e escalabilidade  
-- 🎯 Experiência do usuário (UX/UI)  
-- 🔗 Integração de sistemas  
-- 🤖 Automação com IA  
-
-Stack principal: React, Flutter, FastAPI, Node.js e integração com LLMs.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-<img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Frontend & UI
-<div align="left">
-  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Flutter" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Figma" height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img alt="Tailwind" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img alt="Material UI" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-</div>
+## 🛠️ Tecnologias
 
----
+### Frontend & UI
 
-### ⚙️ Backend & APIs
-<div align="left">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="FastAPI" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
- <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+<p>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+</p>
 
----
+### Backend & Data
 
-### ☁️ Data, Cloud & IA
-<div align="left">
-  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img alt="Firebase" height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
-  <img alt="Vercel" height="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png">
-  <img alt="Render" height="30" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4">
-  <img alt="n8n" height="30" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
-</div>
+<p>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+</p>
+
+### Cloud, Deploy & Automação
+
+<p>
+<img height="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png">
+<img height="30" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4">
+<img height="30" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
+</p>
 
 ---
 
@@ -144,21 +139,16 @@ Stack principal: React, Flutter, FastAPI, Node.js e integração com LLMs.
 ## 📫 Contato
 
 <div align="center">
+  
+<a href="mailto:matheusphillip170@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="mailto:matheusphillip170@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/matheusconaga/">
-  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portifoliomatheuslula.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-⭐ Se algum projeto te interessar, fique à vontade para explorar!
+⭐ Obrigado pela visita! Vamos conectar.
 
   <img src="https://komarev.com/ghpvc/?username=matheusconaga&color=blue" alt="Views no Perfil" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/output/github-snake-dark.svg"/>
+</div>
+  
 </div>
