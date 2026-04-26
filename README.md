@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou o Matheus Lula 🦑
+<div align="center">
+  
+  <h1> 👋 Olá, eu sou o Matheus Lula 🦑 </h1>
+  
+</div>
 
 <div align="center">
 
-<b><i>💻 Desenvolvedor Fullstack | ⚡ React • Flutter • FastAPI | 🤖 Automação & IA</i></b>
+<b><i> Desenvolvedor Fullstack | React • Flutter • FastAPI | Automação & IA</i></b>
 
 **`Construindo produtos digitais com foco em performance, UX e automação`**
 
