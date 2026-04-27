@@ -56,9 +56,9 @@ Desenvolvedor Fullstack com **+2 anos de experiência** entregando aplicações 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusconaga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusconaga&theme=github_dark&show_icons=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&layout=compact&theme=github_dark"/>
 
 </div>
 
