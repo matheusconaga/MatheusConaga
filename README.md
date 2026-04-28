@@ -20,7 +20,7 @@
 
 <div align="center">
 <a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer.pdf"><img src="https://img.shields.io/badge/📄%20Currículo-1E90FF?style=for-the-badge"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=render&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
@@ -110,7 +110,7 @@ Desenvolvedor Fullstack com **+2 anos de experiência** entregando aplicações 
   
 <a href="mailto:matheusphillip170@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=render&logoColor=white"/></a>
 
 ⭐ Aberto para conexões e networking tech!
 
