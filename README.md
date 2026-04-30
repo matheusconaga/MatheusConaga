@@ -42,11 +42,10 @@ Desenvolvedor Fullstack com **+2 anos de experiência** entregando aplicações 
 ## 🚀 Projetos em Destaque
 
 <div align="center">
- 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **[Patrimoniário](https://github.com/matheusconaga/projeto_patrimoniario)** | **Plataforma web de gestão patrimonial com dashboards e QR Code.**<br>⚙️ Arquitetura serverless<br>📊 Dashboard administrativo<br>🔗 Integração com APIs e serviços externos | React • Firebase • Cloudinary |
-| **[PrintLn](https://github.com/matheusconaga/projeto-println)** | **Aplicativo social mobile com foco em UX, autenticação e arquitetura escalável**<br>📱 Aplicação completa<br>🔐 Autenticação com JWT<br>🔄 Gerenciamento de estado com MobX | Flutter • FastAPI • PostgreSQL |
+
+<a href="https://github.com/matheusconaga/projeto-println"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto-println&theme=react&bg_color=1F222E&title_color=00F7FF&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto_patrimoniario&theme=react&bg_color=1F222E&title_color=00F7FF&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
+<a href="https://github.com/matheusconaga/portifollio"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=portifollio&theme=react&bg_color=1F222E&title_color=00F7FF&icon_color=F8D866&hide_border=true&show_icons=false" /></a>
 
 </div>
 
