@@ -5,7 +5,7 @@
 <b><i> Desenvolvedor Fullstack | React • Flutter • FastAPI | Automação & IA</i></b>
 
 <img
-  src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_personag.png"
+  src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png"
   width="240"
 />
 
