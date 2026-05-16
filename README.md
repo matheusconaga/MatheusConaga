@@ -35,9 +35,9 @@ Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo I
 
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=portifollio&theme=github_dark" alt="Meu portfolio profissional"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto-println&theme=github_dark" alt="Rede social mobile"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto_patrimoniario&theme=github_dark" alt="Sistema de gestao de patrimonio"></a>
+<a href="https://github.com/matheusconaga/portifollio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=portifollio&theme=github_dark" alt="Meu portfolio profissional"></a>
+<a href="https://github.com/matheusconaga/projeto-println"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto-println&theme=github_dark" alt="Rede social mobile"></a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto_patrimoniario&theme=github_dark" alt="Sistema de gestao de patrimonio"></a>
 
 </div>
 </details>
