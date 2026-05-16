@@ -22,14 +22,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Fullstack com **+2 anos de experiência** criando aplicações **web, mobile e APIs escaláveis**, focado em **performance, UX/UI e automação com IA**.
+Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo IFPI, com **+2 anos de experiência** em aplicações web, mobile e APIs escaláveis utilizando React, TypeScript, Flutter, FastAPI e Node.js, com foco em performance, UX/UI e automação com IA.
 
-### 📊 Impacto
+<div align="center">
 
-- 📈 +30% engajamento
-- 🎯 50% → 80% performance
-- ⚙️ -40% tarefas manuais
-- 🚀 +20–30% eficiência com IA
+📈 +30% engajamento • 🚀 50% → 80% performance • ⚙️ -40% tarefas manuais • 🤖 +20–30% eficiência operacional
+
+</div>
 
 <details> 
   <summary><h2>🚀 Projetos em Destaque</h2></summary>
