@@ -1,36 +1,38 @@
 <div align="center">
   
-# 👋 Olá, eu sou o Matheus Lula 🦑
+# 👋 Hello, I’m Matheus Lula 🦑
 
-<b><i>Fullstack Developer • React • Flutter • FastAPI • IA & Automação</i></b>
+<b><i>Full Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b>
 
 <img
   src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png"
   min-width="150px" max-width="150px" width="200px" align="center" alt="eu"/>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=20&center=true&vCenter=true&width=700&lines=%2B2+anos+criando+soluções+digitais;React+•+Flutter+•+FastAPI;Performance+•+UX%2FUI+•+IA" />
+<p> 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=20&center=true&vCenter=true&width=700&lines=%2B2+years+building+digital+solutions;React+•+Flutter+•+FastAPI;Performance+•+UX%2FUI+•+AI" /> 
 </p>
 
 <div align="center">
-<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer.pdf"><img src="https://img.shields.io/badge/📄%20Currículo-0e76a8?style=for-the-badge"/></a>
+<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer.pdf"><img src="https://img.shields.io/badge/📄%20CV-0e76a8?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 </div>
 
 </div>
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
-Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo IFPI, com **+2 anos de experiência** em aplicações web, mobile e APIs escaláveis utilizando React, TypeScript, Flutter, FastAPI e Node.js, com foco em performance, UX/UI e automação com IA.
+Full Stack Developer with a degree in Systems Analysis and Development from IFPI, with +2 years of experience building web, mobile, and scalable API applications using React, TypeScript, Flutter, FastAPI, and Node.js, focused on performance, UX/UI, and AI automation.
 
 <details open> 
-  <summary><h2>🚀 Projetos em Destaque</h2></summary>
+  <summary><h2>🚀 Featured Projects</h2></summary>
 
 <div align="center">
 
-<a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=pt&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fprojeto_patrimoniario%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2C+TypeScript%2C+Firebase&showStars=true&showForks=true)</a>
-<a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=pt&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fprojeto-println%2Fmain%2Fassets%2Ffeed_println.png&techs=Flutter%2C+FastAPI%2C+Postgresql&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/github-project-cards">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/portifollio">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fportifollio&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fportfolio.png&techs=React%2CTypeScript%2CTailwind&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true)</a>
 
 </div>
 </details>
@@ -80,7 +82,7 @@ Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo I
 </details>
 
 <details> 
-  <summary><h2>📊 Estatísticas do GitHub</h2></summary>
+  <summary><h2>📊 GitHub Stats</h2></summary>
   
 <div align="center">
 
@@ -90,15 +92,15 @@ Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo I
 </div>
 </details>
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
 <a href="mailto:matheusphillip170@gmail.com"><img src="https://img.shields.io/badge/Gmail-0e76a8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfólio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
+<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 
-⭐ Aberto para conexões e networking tech!
+⭐ Open to connections and tech networking!
 
   <img src="https://komarev.com/ghpvc/?username=matheusconaga&color=blue" alt="Views no Perfil" />
 <div align="center">
