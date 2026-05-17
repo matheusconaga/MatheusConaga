@@ -24,20 +24,13 @@
 
 Desenvolvedor Fullstack formado em Análise e Desenvolvimento de Sistemas pelo IFPI, com **+2 anos de experiência** em aplicações web, mobile e APIs escaláveis utilizando React, TypeScript, Flutter, FastAPI e Node.js, com foco em performance, UX/UI e automação com IA.
 
-<div align="center">
-
-📈 +30% engajamento • 🚀 50% → 80% performance • ⚙️ -40% tarefas manuais • 🤖 +20–30% eficiência operacional
-
-</div>
-
-<details> 
+<details open> 
   <summary><h2>🚀 Projetos em Destaque</h2></summary>
 
 <div align="center">
 
-<a href="https://github.com/matheusconaga/portifollio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=portifollio&theme=github_dark" alt="Meu portfolio profissional"></a>
-<a href="https://github.com/matheusconaga/projeto-println"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto-println&theme=github_dark" alt="Rede social mobile"></a>
-<a href="https://github.com/matheusconaga/projeto_patrimoniario"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=matheusconaga&repo=projeto_patrimoniario&theme=github_dark" alt="Sistema de gestao de patrimonio"></a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=pt&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fprojeto_patrimoniario%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2C+TypeScript%2C+Firebase&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=pt&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fprojeto-println%2Fmain%2Fassets%2Ffeed_println.png&techs=Flutter%2C+FastAPI%2C+Postgresql&showStars=true&showForks=true)</a>
 
 </div>
 </details>
