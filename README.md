@@ -2,7 +2,7 @@
   
 # 👋 Hello, I’m Matheus Lula 🦑
 
-<b><i>Full Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b>
+<b><i>Full-Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b>
 
 <img
   src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png"
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About me
 
-Full Stack Developer with a degree in Systems Analysis and Development from IFPI, with +2 years of experience building web, mobile, and scalable API applications using React, TypeScript, Flutter, FastAPI, and Node.js, focused on performance, UX/UI, and AI automation.
+Brazilian Full-Stack Developer with a degree in Systems Analysis and Development from IFPI, with +2 years of experience building web, mobile, and scalable API applications using React, TypeScript, Flutter, FastAPI, and Node.js, focused on performance, UX/UI, and AI automation.
 
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
