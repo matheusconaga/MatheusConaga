@@ -13,7 +13,8 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer.pdf"><img src="https://img.shields.io/badge/📄%20CV-0e76a8?style=for-the-badge"/></a>
+<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_pt.pdf"><img src="https://img.shields.io/badge/📄%20CV-PT-0e76a8?style=for-the-badge"/></a>
+<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_en.pdf"><img src="https://img.shields.io/badge/📄%20CV-EN-0e76a8?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 </div>

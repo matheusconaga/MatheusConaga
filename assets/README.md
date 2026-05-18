@@ -1,1 +1,1 @@
-Assets usados no perfil
+Assets used in the profile
