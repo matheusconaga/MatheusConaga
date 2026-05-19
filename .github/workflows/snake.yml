@@ -15,11 +15,12 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: matheusconaga
+          github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-snake.svg?color_snake=%2359A6EC&color_dots=%23161B22,%231f2937,%233b82f6,%2359A6EC,%23ffffff
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2359A6EC&color_dots=%230D1117,%231f2937,%233b82f6,%2359A6EC,%23ffffff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%231F6FEB&color_dots=%23161B22,%230D419D,%231F6FEB,%2359A6EC,%2393C5FD
+
+            dist/github-snake.svg?color_snake=%231F6FEB&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
