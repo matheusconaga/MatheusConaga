@@ -1,24 +1,24 @@
-<div align="center">
-  
-# 👋 Hello, I’m Matheus Lula 🦑
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png" width="150px" alt="Matheus Lula" height: auto; display: block; margin: 0 auto;"/>
+    </td>
+    <td valign="middle" align="center" width="500">
+  <h1>👋 Hello, I’m Matheus Lula 🦑</h1>
+  <p><b><i>Full-Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b></p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=20&center=true&vCenter=true&width=500&lines=%2B2+years+building+digital+solutions;React+•+Flutter+•+FastAPI;Performance+•+UX%2FUI+•+AI" />
+  </p>
+</td>
+  </tr>
+</table>
 
-<b><i>Full-Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b>
-
-<img
-  src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png"
-  min-width="150px" max-width="150px" width="200px" align="center" alt="eu"/>
-
-<p> 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=20&center=true&vCenter=true&width=700&lines=%2B2+years+building+digital+solutions;React+•+Flutter+•+FastAPI;Performance+•+UX%2FUI+•+AI" /> 
-</p>
-
-<div align="center">
-<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_pt.pdf"><img src="https://img.shields.io/badge/📄%20CV-PT-0e76a8?style=for-the-badge"/></a>
-<a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_en.pdf"><img src="https://img.shields.io/badge/📄%20CV-EN-0e76a8?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
-</div>
-
+<!-- Botões de Redes e CV Centralizados Abaixo -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_pt.pdf"><img src="https://img.shields.io/badge/📄%20CV-PT-0e76a8?style=for-the-badge"/></a>
+  <a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_en.pdf"><img src="https://img.shields.io/badge/📄%20CV-EN-0e76a8?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 </div>
 
 ## 🧑‍💻 About me
