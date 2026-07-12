@@ -41,7 +41,7 @@ Brazilian Full-Stack Developer with a degree in Systems Analysis and Development
 <details> 
   <summary><h2>🛠️ Tech Stack</h2></summary>
   
-### Frontend
+### Frontend & UI
 
 <p align="left">
 
@@ -54,7 +54,7 @@ Brazilian Full-Stack Developer with a degree in Systems Analysis and Development
 <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
 
-### Backend
+### Backend & Data
 
 <p align="left">
 
@@ -67,7 +67,7 @@ Brazilian Full-Stack Developer with a degree in Systems Analysis and Development
 <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 
-### Tools
+### Tools & Workflow
 
 <p align="left">
 
