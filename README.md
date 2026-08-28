@@ -18,7 +18,7 @@
   <a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_pt.pdf"><img src="https://img.shields.io/badge/📄%20CV-PT-0e76a8?style=for-the-badge"/></a>
   <a href="https://github.com/matheusconaga/matheusconaga/blob/main/assets/Matheus_Lula_Fullstack_Developer_en.pdf"><img src="https://img.shields.io/badge/📄%20CV-EN-0e76a8?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
+  <a href="https://matheusconaga.dev/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 </div>
 
 ## 🧑‍💻 About me
@@ -99,7 +99,7 @@ Brazilian Full-Stack Developer with a degree in Systems Analysis and Development
 
 <a href="mailto:matheusphillip170@gmail.com"><img src="https://img.shields.io/badge/Gmail-0e76a8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheusconaga/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://portifoliomatheuslula.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
+<a href="https://matheusconaga.dev/"><img src="https://img.shields.io/badge/Portfolio-080322?style=for-the-badge&logo=render&logoColor=white"/></a>
 
 ⭐ Open to connections and tech networking!
 
